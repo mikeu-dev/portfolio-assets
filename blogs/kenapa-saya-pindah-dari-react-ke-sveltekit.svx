@@ -3,6 +3,7 @@
   description: "Pengalaman pribadi beralih dari React ke SvelteKit — framework yang lebih ringan, cepat, dan menyenangkan untuk dikembangkan."
   date: "2025-10-23"
   published: true
+
 ---
 
 # Kenapa Saya Pindah dari React ke SvelteKit
